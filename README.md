@@ -16,14 +16,15 @@ Some of the key features of this project are
 
 - [Installation](#installation)
     - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
+    - [Instructions](#instructions)
 - [Testing](#testing)
-- [Run with Docker-Compose](#run-with-docker-compose)
+- [Run with Docker](#run-with-docker)
 - [Usage](#usage)
-    - [Swagger](#swagger)
+    - [OpenApi](#openapi)
     - [Endpoints](#endpoints)
-        - [GET /api/v1/population-density](#get-apiv1population-density)
-        - [GET /api/v1/most-bordering/{region}](#get-apiv1most-borderingregion)
+        - [GET /countries](#get-countries)
+        - [GET /countries/population-density](#get-countriespopulation-density)
+        - [GET /countries/population-density?region={region}](#get-countriespopulation-densityregionregion)
 - [License](#license)
 
 ## Installation
