@@ -102,5 +102,4 @@ curl -X 'GET' \
 ```
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[LICENSE](LICENSE)
